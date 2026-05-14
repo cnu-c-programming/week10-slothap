@@ -1,6 +1,6 @@
 #include <stdio.h>
 struct IPv4
-{
+{//
     unsigned int version;
     unsigned int ihl;
     unsigned long long ttl;
